@@ -1,0 +1,26 @@
+theme = "hugo-theme-learn"
+baseURL = "http://fc2018.netlify.com/"
+languageCode = "en-us"
+title = "Forecasting 2018"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+googleAnalytics = ""
+
+# For search functionnality
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+author = "Samuel Orso"
+description = "This website provides the support for the Forecasting class given at the Faculty of Business and Economics (HEC Lausanne) of the University of Lausanne in Fall 2018"
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-fw fa-users'></i> Discussion forum"
+identifier = "fm"
+url = "https://piazza.com/unil.ch/fall2018/fc2018/home"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-fw fa-book'></i> Textbook"
+identifie = "book"
+url = "https://otexts.org/fpp2/"
+weight = 15
