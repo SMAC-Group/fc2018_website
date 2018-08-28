@@ -3,7 +3,7 @@ baseURL = "http://fc2018.netlify.com/"
 languageCode = "en-us"
 title = "Forecasting 2018"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-googleAnalytics = ""
+googleAnalytics = "UA-124747729-1"
 
 # For search functionnality
 [outputs]
