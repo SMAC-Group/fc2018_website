@@ -37,7 +37,7 @@ Participation | 10 | 1
 Bonuses may be obtained at our discretaion for the groups or individuals that give outstanding work for each of these categories, described in more details below.
 
 {{% notice info %}}
-No final examination for this class. The learning outcomes are continuously assessed during the semester with the homeworks, the project and the participation.
+No final examination for this class. The learning outcomes are continuously assessed during the semester with the forecasting competitions, the reports, the presentation and the participation.
 {{% /notice %}}
 
 ### Forecasting competitions
