@@ -8,7 +8,7 @@ tags: []
 weight: 10
 ---
 
-This class is intended to present to the students a wide range of forecasting tools. Tentative list of topics that will be discussed in this class are listed below:
+This class is intended to present a wide range of forecasting tools. Tentative list of topics that will be discussed in this class are listed below:
 
 - **Time series models:** A broad range of "classical" models such as autoregressive models, ARMA, ARIMA, GARCH, ... and their extensions to add external information (dynamic regression)     
 - **Neural Networks:** An introduction to neural networks for time serie data   
