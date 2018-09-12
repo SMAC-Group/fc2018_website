@@ -84,7 +84,7 @@ ggplot(fpp2, aes(x = date, y = count)) +
   geom_line() + xlab("Dates") + ylab("Number of downloads on CRAN") + 
   ggtitle("Number of downloads of 'fpp2'")
 ```
-<img src="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/fpp2_1.png" alt="fpp21" width="300px"/> 
+<img src="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/fpp2_1.png" alt="fpp21" width="400px"/> 
 
 You can notice peeks and zeros appearing. These questions will be addressed in a future
 lecture.

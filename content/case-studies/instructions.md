@@ -67,14 +67,17 @@ their forecasts to the instructor that we now explain:
     2: No
     
     Selection?
-    ```
-    
+    ```   
     You should enter 1 (for Yes). Then your browser should open to the gmail ''Sign in''
     page. Choose the account of your group: it should be ''unil.forecasting.group#@gmail.com''
     where ''#'' is your group number. For example, if you are group 1, select   
+    
     <img src="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/ss_gmail1.png" alt="gmail1" width="300px"/> 
+    
     Then, you should enter the password provided by the instructor and click on ''Allow''
+    
     <img src="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/ss_gmail2.png" alt="gmail2" width="300px"/> 
+    
     If everything is ok, you receive the following message:   
     
     ```{toml}

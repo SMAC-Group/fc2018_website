@@ -59,6 +59,10 @@ For the content, the reports should be structured as follows:
 
 Code, additional tables and/or figures may appear in an appendix.
 
+{{% button href="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/report.Rmd" icon="fas fa-download" %}}Get RMarkdown template{{% /button %}}
+{{% button href="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/report.pdf" icon="fas fa-download" %}}Get pdf output{{% /button %}}
+{{% button href="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/report.html" icon="fas fa-download" %}}Get html output{{% /button %}}
+
 {{% notice warning %}}
 <i class="far fa-clock"></i> Late submission is penalized by 1 point every 24 hours after the deadline.   
 <i class="fas fa-ruler-vertical"></i> Failure to comply to the rules (e.g. max of 4 pages) is penalized.
