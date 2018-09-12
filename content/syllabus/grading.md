@@ -41,7 +41,7 @@ No final examination for this class. The learning outcomes are continuously asse
 {{% /notice %}}
 
 ### Forecasting competitions
-The forecasting competitions is the core of this class as it provides an opportunity for the students to combine content learned throughout the course for direct use in some realistic application. All the forecasting competitions are conducted in groups. They consist of giving forecasts of events that have not occured yet. Students are totally free on their choice of the methodologies employed (it can be models seen in-class, in other classes or from their personal experience) and on the mean employed to produce the forecasts (we use R during the class, but students may consider alternatives). There are four competitions introduced in-class at different time during the semester (see the [case studies page](https://ptds2018.netlify.com/project/) for more details). There are 5 points for each competition. The points are gained solely based on the performances of the group. Each competition has its own performance criterion. The group with the overall best performance receives a bonus of 1 point per competition. Be careful, the instructor has one group as well <i class="fas fa-grin-tongue"></i>
+The forecasting competitions is the core of this class as it provides an opportunity for the students to combine content learned throughout the course for direct use in some realistic application. All the forecasting competitions are conducted in groups. They consist of giving forecasts of events that have not occured yet. Students are constrained to use a specific methodology covered in-class, but on top of that, they are also free to use other techniques of their own choices (it can be models seen in-class, in other classes or from their personal experience). Students are free of choice on the mean employed to produce the forecasts (we use R during the class, but students may consider alternatives). There are four competitions introduced in-class at different time during the semester (see the [case studies page](https://ptds2018.netlify.com/project/) for more details). There are 5 points for each competition. The points are gained solely based on the performances of the group. Each competition has its own performance criterion. The group with the overall best performance receives a bonus of 1 point per competition. Be careful, the instructor has one group as well <i class="fas fa-grin-tongue"></i>
 
 ### Reports
 At the end of each competitions, groups will have a week to make a short report (max 4 pages) that summarizes their experience in the competition and the different strategies they adopted. There are five points per report (four competitions). The 5 points of the grade are allocated according to the following criteria:
@@ -57,8 +57,11 @@ For the content, the reports should be structured as follows:
 3. **Performances:** Summarize and illustrate the performances you achieved during the competition.    
 4. **Discussion:** Explain the potential reasons for your success or lack of success and give recommendation for future forecasting. Have you experienced difficulties, explain it here.
 
+Code, additional tables and/or figures may appear in an appendix.
+
 {{% notice warning %}}
-Late submission is penalized by 1 point every 24 hours after the deadline.
+<i class="far fa-clock"></i> Late submission is penalized by 1 point every 24 hours after the deadline.   
+<i class="fas fa-ruler-vertical"></i> Failure to comply to the rules (e.g. max of 4 pages) is penalized.
 {{% /notice %}}
 
 ### Presentation

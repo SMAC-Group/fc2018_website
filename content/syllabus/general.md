@@ -26,6 +26,5 @@ weight: 5
 
 - **Name:** Samuel Orso
 - **Email:** [Samuel.Orso@unil.ch](mailto:Samuel.Orso@unil.ch)
-- **Office Hours:** I do not have an office at the University of Lausanne. Appointment
-may be made upon request (first, check the communication chanel described [here]({{< ref "communication.md" >}})).
+- **Office Hours:** Anthropole/3090.1. Appointment may be made upon request (first, check the communication chanel described [here]({{< ref "communication.md" >}})).
 - <i class="fab fa-github"></i> [find me on GitHub](https://github.com/samorso)
