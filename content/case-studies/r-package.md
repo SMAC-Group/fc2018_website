@@ -9,8 +9,8 @@ weight: 10
 ---
 
 {{% notice warning %}}
-<i class="far fa-calendar-alt"></i> Competition from ... (included) to ... (included).   
-<i class="fas fa-atlas"></i> Report due for ....   
+<i class="far fa-calendar-alt"></i> Competition from 26.09 (included) to 9.10 (included).   
+<i class="fas fa-atlas"></i> Report due for 16.10   
 <i class="far fa-clock"></i> Remember to forecast at least **one day before** the date 
 for which the forecast is intended, **before 11pm at the latest**.   
 <i class="far fa-comments"></i> Send your forecast before 8pm to receive 
