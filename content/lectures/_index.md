@@ -14,7 +14,7 @@ The ideal schedule is given below. This schedule may vary during the semester. C
 
 **Week** | **Date** | **Class** | **Exercises** | **Forecasting competition**   
 :-- | :-- | :-- | :-- | :--   
-1 | 18.9 | Time series decomposition: [Chapter 6](https://otexts.org/fpp2/decomposition.html) | R/RStudio installation, group formation | Follow the [instructions]({{< ref "instructions.md" >}})
+1 | 18.9 | Time series decomposition: [Chapter 6](https://otexts.org/fpp2/decomposition.html) | R/RStudio installation, group formation. Exercices [6.5 & 6.6](https://otexts.org/fpp2/decomposition-exercises.html) | Follow the [instructions]({{< ref "instructions.md" >}})
 2 | 25.9 | Exponential smoothing: [Chapter 7](https://otexts.org/fpp2/expsmooth.html)  Time series of counts: [Chapter 12.2](https://otexts.org/fpp2/counts.html) | | Launch of [R-packages]({{< ref "r-package.md" >}}) competition
 3 | 2.10 | ARIMA models: [Chapter 8](https://otexts.org/fpp2/arima.html) | | [R-packages]({{< ref "r-package.md" >}})
 4 | 9.10 | Complex seasonality: [Chapter 11.1](https://otexts.org/fpp2/complexseasonality.html)    Dealing with missing values and outliers: [Chapter 12.9](https://otexts.org/fpp2/missing-outliers.html) | | [R-packages]({{< ref "r-package.md" >}})
