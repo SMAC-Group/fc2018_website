@@ -74,7 +74,7 @@ Every group will give once a 10 minutes (not more!) presentation on one of their
 - Motivations for the problem (2 points)  
 - Quality of the presentation (2 points)  
 - Clarity of the methodologies adopted (2 points)  
-- Clarity of the realized performances and recommandations (2 points)
+- Clarity of the realized performances and recommendations (2 points)
 - Respect of the constraints (2 points)  
 
 The presentations are peer evaluated: every group grades the others and send a brief report (1 page max) to the instructor. The instructor grades as well the project. The final points obtained for the project is given by taking 50% of the instructor's grade and 50% of the average from the other groups' grades.
