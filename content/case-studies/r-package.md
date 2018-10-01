@@ -29,9 +29,6 @@ the `fpp2` package.
 The accuracy of the forecasts is measured by the mean squared error:
 $$(x_t - \hat{x}_t)^2$$
 
-The final points are attributed according to:
-...
-
 The objectives of this case study are the followings:   
 
 - Learn to forecast with **exponential smoothing** and **ARIMA** models.   
