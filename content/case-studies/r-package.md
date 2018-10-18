@@ -9,8 +9,8 @@ weight: 10
 ---
 
 {{% notice warning %}}
-<i class="far fa-calendar-alt"></i> Competition from 26.09 (included) to 9.10 (included).   
-<i class="fas fa-atlas"></i> Report due for 16.10   
+<i class="far fa-calendar-alt"></i> Competition from 16.10 (included) to 30.10 (included).   
+<i class="fas fa-atlas"></i> Report due for 30.10   
 <i class="far fa-clock"></i> Remember to forecast at least **one day before** the date 
 for which the forecast is intended, **before 11pm at the latest**.   
 <i class="far fa-comments"></i> Send your forecast before 8pm to receive 
@@ -85,3 +85,13 @@ ggplot(fpp2, aes(x = date, y = count)) +
 
 You can notice peeks and zeros appearing. These questions will be addressed in a future
 lecture.
+
+### results (update 18.10.2018)
+
+<img src="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/fpp2_2.png" alt="fpp21" width="400px"/> 
+
+Date | Max | Lumia
+--- | --- | ---
+16.10 | 77.31 | 131.07   
+
+Table: Absolute difference between forecast and realization.
