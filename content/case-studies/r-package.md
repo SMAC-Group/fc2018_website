@@ -93,6 +93,6 @@ lecture.
 Date | <span style="color:red">Max</span> | <span style="color:pink">Lumia</span>
 --- | --- | ---
 16.10 | 77.31 | 131.07   
-17.10 | 91.73 | 226.83   
+17.10 | 91.73 | 84.98   
 
 Table: Absolute difference between forecast and realization.
