@@ -86,7 +86,7 @@ ggplot(fpp2, aes(x = date, y = count)) +
 You can notice peeks and zeros appearing. These questions will be addressed in a future
 lecture.
 
-### results (update 18.10.2018)
+### results (update 20.10.2018)
 
 <img src="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/fpp2_3.png" alt="fpp22" width="400px"/> 
 
