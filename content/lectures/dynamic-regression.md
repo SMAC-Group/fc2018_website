@@ -8,7 +8,7 @@ tags: []
 weight: 20
 ---
 
-### ARIMA
+### Advanced topics
 The slides are based on the [Chapter 9, 11 and 12](https://otexts.org/fpp2/) of the reference book.   
 {{% button href="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/advanced.pdf" icon="fas fa-download" %}}Get the slides{{% /button %}}   
 
