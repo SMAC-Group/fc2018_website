@@ -88,13 +88,14 @@ lecture.
 
 ### results (update 20.10.2018)
 
-<img src="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/fpp2_3.png" alt="fpp22" width="400px"/> 
+<img src="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/fpp2_2.png" alt="fpp22" width="400px"/> 
 
 Date | <span style="color:red">Max</span> | <span style="color:pink">Lumia</span>
 --- | --- | ---
 16.10 | 77.31 | 131.07   
 17.10 | 91.73 | 84.98
 18.10 | 110.93 | 268.83
-
+19.10 | $\emptyset$ | 104.14
+20.10 | 0.01 | 22.87
 
 Table: Absolute difference between forecast and realization.
