@@ -86,9 +86,9 @@ ggplot(fpp2, aes(x = date, y = count)) +
 You can notice peeks and zeros appearing. These questions will be addressed in a future
 lecture.
 
-### results (update 26.10.2018)
+### results (update 27.10.2018)
 
-<img src="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/fpp2_3.png" alt="fpp22" width="400px"/> 
+<img src="https://raw.githubusercontent.com/SMAC-Group/fc2018_website/master/data/fpp2_2.png" alt="fpp22" width="400px"/> 
 
 Date | <span style="color:red">Max</span> | <span style="color:pink">Lumia</span>
 --- | --- | ---
@@ -100,5 +100,6 @@ Date | <span style="color:red">Max</span> | <span style="color:pink">Lumia</span
 21.10 | 147 | 100   
 22.10 | $\emptyset$ | 128.33   
 23.10 | 20.17 | 7.40  
-24.10 | 78.74 | 97.00  
+24.10 | 78.74 | 97.00 
+25.10 | $\emptyset$ | 55.00 
 Table: Absolute difference between forecast and realization.
